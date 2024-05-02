@@ -1,5 +1,10 @@
 {
     "editor.fontSize": 16,
     "material-icon-theme.hidesExplorerArrows": false,
-    "material-icon-theme.folders.associations": {}
+    "material-icon-theme.folders.associations": {},
+    "angular-schematics.schematicsDefaultOptions": {
+        "angular-*": {
+            "externalTemplate": true
+        }
+    }
 }
